@@ -14,6 +14,11 @@
   object-fit: cover;
 }
 
+body {
+  max-width: 1800px;
+  margin: 0 auto;
+}
+
 .body{
   padding: 1% 5% 0 5%;
 }
